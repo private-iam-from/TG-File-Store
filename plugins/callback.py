@@ -64,17 +64,17 @@ async def about_cb(c, m):
 
 🤖 𝐌𝐲 𝐍𝐚𝐦𝐞: {bot.mention(style='md')}
     
-📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: [Python 3](https://www.python.org/)
+📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: Python 3
 
-🧰 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: [Pyrogram](https://github.com/pyrogram/pyrogram)
+🧰 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: Pyrogram
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [ᴀᴋ ꜱᴛᴜᴅɪᴏ ✌︎](https://t.me/AlluKishore_Official)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+👥 𝐆𝐫𝐨𝐮𝐩: [[ A K M R ]](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/Ns-Bots/TG-File-Store)
+🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://t.me/sourcesofcode)
 """
 
     # creating buttons
