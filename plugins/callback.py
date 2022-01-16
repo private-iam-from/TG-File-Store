@@ -74,7 +74,7 @@ async def about_cb(c, m):
 
 👥 𝐆𝐫𝐨𝐮𝐩: [[ A K M R ]](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://t.me/sourcesofcode)
+🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://t.me/+SuKq6KMnVa4yZTJl)
 """
 
     # creating buttons
